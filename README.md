@@ -4,17 +4,7 @@
 
 
 # [ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge#!/)
-Shilpa Kuppili (Current Maintainer)
-Original Authors: Yunxiang Li<sup>1</sup>, Zihan Li<sup>2</sup>, Kai Zhang<sup>3</sup>, Ruilong Dan<sup>4</sup>, Steve Jiang<sup>1</sup>, You Zhang<sup>1</sup>
-<h5>1 UT Southwestern Medical Center, USA</h5>
-<h5>2 University of Illinois at Urbana-Champaign, USA</h5>
-<h5>3 Ohio State University, USA</h5>
-<h5>4 Hangzhou Dianzi University, China</h5>
 
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/HUANGLIZI/ChatDoctor/blob/main/LICENSE) 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
-[![Page](https://img.shields.io/badge/Web-Page-yellow)](https://www.yunxiangli.top/ChatDoctor/) 
 ## Resources List
 Autonomous ChatDoctor with Disease Database [Demo](https://huggingface.co/spaces/kenton-li/chatdoctor_csv).
 
